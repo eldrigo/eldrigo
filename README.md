@@ -1,6 +1,6 @@
 # Hello there 😄
 
-#### I am Rinzin, A software developer specialising in web and mobile application development, focused crafting awesome user expericence 😎 with simple, clean and boring codes 💻.
+##### I am Rinzin, A software developer specialising in web and mobile application development, focused on crafting awesome user expericence 😎 with simple, clean and boring codes 💻.
 
 #### Some of my personal projects includes:
 - [zheygo](https://github.com/eldrigo/zhey_go/): a door to door food deliver platform build with flutter, firebase, typescript
